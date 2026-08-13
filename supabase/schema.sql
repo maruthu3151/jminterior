@@ -16,7 +16,7 @@ CREATE TABLE IF NOT EXISTS public.site_settings (
     address TEXT DEFAULT '4/29 Kamarajar Street, Nesapakkam, Chennai, Tamil Nadu - 600078',
     google_maps_url TEXT DEFAULT 'https://maps.google.com/?q=4/29+Kamarajar+Street+Nesapakkam+Chennai',
     logo_url TEXT DEFAULT '',
-    admin_passkey VARCHAR(255) DEFAULT 'selvam123',
+    admin_passkey VARCHAR(255) DEFAULT 'SELVAM@7358549554',
     meta_title VARCHAR(255) DEFAULT 'JM INTERIOR | Premium Interior Design & Woodwork',
     meta_description TEXT DEFAULT 'Luxury modular kitchens, wardrobes, and custom interior design in Chennai by K. Selvam.',
     updated_at TIMESTAMP WITH TIME ZONE DEFAULT CURRENT_TIMESTAMP
